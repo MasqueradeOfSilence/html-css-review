@@ -4,6 +4,12 @@ a
     text-decoration: underline dotted;
 }
 
+a:active
+{
+    color: aqua;
+    text-decoration: underline;
+}
+
 #art
 {
     color: blue;

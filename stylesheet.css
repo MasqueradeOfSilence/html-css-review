@@ -20,4 +20,5 @@ a:active
     color: goldenrod;
     font-family: verdana;
     font-size: larger;
+    text-transform: uppercase;
 }

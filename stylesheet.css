@@ -28,6 +28,11 @@ a:active
     background-color: lightblue;
 }
 
+#style-me-too
+{
+    background-image: url("https://static.tvtropes.org/pmwiki/pub/images/iheardulikemudkips2.png");
+}
+
 .company
 {
     color: goldenrod;

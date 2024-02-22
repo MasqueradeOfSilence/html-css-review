@@ -4,6 +4,12 @@ a
     text-decoration: underline dotted;
 }
 
+body
+{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/005/226/673/large_2x/abstract-background-rain-drops-on-window-selective-focus-rainy-city-background-water-drops-on-glass-rainy-weather-blur-wallpaper-free-photo.jpg");
+    background-attachment: fixed;
+}
+
 a:active
 {
     color: aqua;

@@ -38,6 +38,7 @@ a:active
 {
     background-image: url("https://static.tvtropes.org/pmwiki/pub/images/iheardulikemudkips2.png");
     background-repeat: repeat-x;
+    background-position: left left;
 }
 
 .company

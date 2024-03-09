@@ -39,6 +39,7 @@ a:active
     background: url("https://www.thoughtco.com/thmb/DQWHbIr1LjByQ8ZJlzg2nQO5Pdc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/556442987-58b7417e5f9b5880804fc0a1.jpg") #FFFFFF fixed top left no-repeat;
     position: relative;
     left: 5%;
+    width: 100%;
 }
 
 #style-me-too
